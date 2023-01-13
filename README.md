@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niels</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
-<img aling="right" alt="coding" width="800" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img aling="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Jared (Discord bot)**
 
